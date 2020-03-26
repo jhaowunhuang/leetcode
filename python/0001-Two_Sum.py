@@ -5,6 +5,5 @@ def twoSum(nums, target):
             return [ref[target - item], i]
         ref[item] = i
 
-
 class Solution:
     pass
