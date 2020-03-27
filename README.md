@@ -10,5 +10,8 @@ My leetcode practice
 0007-Reverse_Integer.py
 0008-String_to_Integer.py
 0009-Palindrome_Number.py
+0011-Container_With_Most_Water.py
+0014-Longest_Common_Prefix.py
+0015-3Sum.py
 ```
 

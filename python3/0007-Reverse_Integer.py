@@ -1,5 +1,5 @@
 class Solution:
-    def reverse(self, x: int) -> int:
+    def reverse(self, x):
         sign = 0
         if x < 0:
             sign = -1
