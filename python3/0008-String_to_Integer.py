@@ -1,5 +1,5 @@
 class Solution:
-    def myAtoi(self, s: str) -> int:
+    def myAtoi(self, s):
         sign = ans = ''
         for i in s:
             if i.isdigit():
