@@ -1,5 +1,5 @@
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    def threeSum(self, nums): 
         ref = {}
         for i in nums:
             ref[i] = ref.get(i, 0) + 1
