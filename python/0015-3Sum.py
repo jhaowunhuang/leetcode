@@ -1,3 +1,4 @@
+import bisect
 class Solution:
     def threeSum(self, nums): 
         ref = {}

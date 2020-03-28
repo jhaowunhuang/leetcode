@@ -1,5 +1,5 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
+    def maxArea(self, height):
         left, right = 0, len(height) - 1
         max_ans = (right - left) * min(height[left], height[right])
         while left < right:
