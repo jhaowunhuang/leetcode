@@ -1,9 +1,9 @@
 # leetcode
 My leetcode practice
 
-![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/Kotlin%20app/badge.svg)
-
-![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/Python%20application/badge.svg)
+![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/KotlinApp/badge.svg)
+![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/PythonApp/badge.svg)
+![Python Version](https://img.shields.io/badge/Python-3.5%20%2F%203.6%20%2F%203.7%20%2F%203.8-yellowgreen)
 
 ## Problems
 
