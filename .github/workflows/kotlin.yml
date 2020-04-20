@@ -1,0 +1,19 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: KotlinApp
+
+on: [push, pull_request]
+
+jobs:
+  ktlint:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "checkout"
+        uses: actions/checkout@v2
+      - name: Install Ktlint
+        run: curl -sSLO https://github.com/pinterest/ktlint/releases/download/0.35.0/ktlint && chmod a+x ktlint
+      - name: ktlint
+        run: ./ktlint kotlin/
