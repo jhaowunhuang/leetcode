@@ -15,6 +15,10 @@ My leetcode practice
 0014-Longest_Common_Prefix.py
 0015-3Sum.py
 0021-Merge_Two_Sorted_Lists.py
+0027-Remove_Element.py
+0035-Search_Insert_Position.py
+0038-Count_and_Say.py
+0053-Maximum_Subarray.py
 ``` 
 =======
 ![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/KotlinApp/badge.svg)
