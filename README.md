@@ -19,6 +19,7 @@ My leetcode practice
 0035-Search_Insert_Position.py
 0038-Count_and_Say.py
 0053-Maximum_Subarray.py
+0058-Length_of_Last_Word.py
 ``` 
 =======
 ![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/KotlinApp/badge.svg)
@@ -39,4 +40,9 @@ My leetcode practice
 * 0014-Longest_Common_Prefix
 * 0015-3Sum
 * 0021-Merge_Two_Sorted_Lists
+* 0027-Remove_Element.py
+* 0035-Search_Insert_Position.py
+* 0038-Count_and_Say.py
+* 0053-Maximum_Subarray.py
+* 0058-Length_of_Last_Word.py
 >>>>>>> 683e13d51c8abafc19630db9d4d0e39ca88cb35a
