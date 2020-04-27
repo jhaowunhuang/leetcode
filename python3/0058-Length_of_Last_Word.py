@@ -1,3 +1,3 @@
 class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
+    def lengthOfLastWord(self, s):
         return len(s.strip().split(' ')[-1])

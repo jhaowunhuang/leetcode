@@ -1,5 +1,5 @@
 class Solution:
-    def maxSubArray(self, nums: List[int]) -> int:
+    def maxSubArray(self, nums):
         dp_arr = [0] * len(nums)
         dp_arr[0] = nums[0]
         for i, item in enumerate(nums):
