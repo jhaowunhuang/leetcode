@@ -1,7 +1,7 @@
 # leetcode
 My leetcode practice
 
-0001-Two_Sum.py
+* 0001-Two_Sum.py
 0002-Add_Two_Numbers.py
 0003-Longest_Substring_Without_Repeating_Characters.py
 0005-Longest_Palindromic_Substring.py
