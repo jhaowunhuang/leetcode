@@ -22,8 +22,3 @@ My leetcode practice
 0067-Add_Binary.py
 0069-Sqrtx.py
 0070-Climbing_Stairs.py
-``` 
-=======
-![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/KotlinApp/badge.svg)
-![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/PythonApp/badge.svg)
-![Python Version](https://img.shields.io/badge/Python-3.5%20%2F%203.6%20%2F%203.7%20%2F%203.8-yellowgreen)
