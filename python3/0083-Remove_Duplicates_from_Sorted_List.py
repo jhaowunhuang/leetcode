@@ -7,7 +7,8 @@ class ListNode:
 
 class Solution:
     def deleteDuplicates(self, head: ListNode) -> ListNode:
-        if not head:  return head
+        if not head:
+            return head
         node1 = node2 = head
         while node1.next:
             node1 = node1.next
