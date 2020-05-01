@@ -1,6 +1,6 @@
 class Solution:
     def countAndSay(self, n):
-        cur_text =  '1'
+        cur_text = '1'
         next_text = ''
         count = 1
         for i in range(n - 1):

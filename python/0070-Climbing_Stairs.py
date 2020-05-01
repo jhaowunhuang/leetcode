@@ -4,4 +4,4 @@ class Solution:
         while n > 0:
             pre, cur = cur, pre + cur
             n -= 1
-        return cur 
+        return cur

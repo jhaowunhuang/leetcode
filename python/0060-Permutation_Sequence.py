@@ -1,4 +1,6 @@
 import math
+
+
 class Solution:
     def getPermutation(self, n, k):
         ref = [str(x) for x in range(1, n + 1)]

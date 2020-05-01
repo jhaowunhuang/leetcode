@@ -1,6 +1,7 @@
 class Solution:
     def isPalindrome(self, x):
-        if x < 0:  return False
+        if x < 0:
+            return False
         ori = x
         rev = 0
         while x:
