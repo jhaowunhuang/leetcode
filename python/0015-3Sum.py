@@ -1,8 +1,6 @@
 import bisect
-
-
 class Solution:
-    def threeSum(self, nums):
+    def threeSum(self, nums): 
         ref = {}
         for i in nums:
             ref[i] = ref.get(i, 0) + 1
