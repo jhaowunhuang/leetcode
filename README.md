@@ -23,6 +23,7 @@ My leetcode practice
 0066-Plus_One.py
 0067-Add_Binary.py
 0069-Sqrtx.py
+0070-Climbing_Stairs.py
 ``` 
 =======
 ![Build Status](https://github.com/jhaowunhuang/leetcode/workflows/KotlinApp/badge.svg)
@@ -51,4 +52,5 @@ My leetcode practice
 * 0066-Plus_One.py
 * 0067-Add_Binary.py
 * 0069-Sqrtx.py
+* 0070-Climbing_Stairs.py
 >>>>>>> 683e13d51c8abafc19630db9d4d0e39ca88cb35a
