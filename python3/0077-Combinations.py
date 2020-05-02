@@ -2,6 +2,7 @@ class Solution:
     def combine(self, n, k):
         ans = []
         n += 1
+
         def func(pos, temp, res):
             if res == 0:
                 ans.append(temp)
