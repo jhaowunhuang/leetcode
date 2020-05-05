@@ -1,5 +1,5 @@
 class Solution:
-    def getRow(self, rowInde):
+    def getRow(self, rowIndex):
         ans = [1]
         for i in range(1, rowIndex + 1):
             ans = [1] + [ans[j] + ans[j + 1] for j in range(i - 1)] + [1]
