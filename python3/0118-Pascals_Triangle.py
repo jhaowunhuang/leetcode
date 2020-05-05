@@ -1,5 +1,5 @@
 class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
+    def generate(self, numRows):
         if numRows == 0:
             return []
         ans = [[1]]
