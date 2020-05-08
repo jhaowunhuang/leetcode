@@ -25,6 +25,7 @@ My leetcode practice
 * 0077-Combinations.py
 * 0083-Remove_Duplicates_from_Sorted_List.py
 * 0100-Same_Tree.py
+* 0104-Maximum_Depth_of_Binary_Tree.py
 * 0112-Path_Sum.py
 * 0118-Pascals_Triangle.py
 * 0119-Pascals_Triangle_II.py
