@@ -29,3 +29,4 @@ My leetcode practice
 * 0112-Path_Sum.py
 * 0118-Pascals_Triangle.py
 * 0119-Pascals_Triangle_II.py
+* 0136-Single_Number.py
