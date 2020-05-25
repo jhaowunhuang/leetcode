@@ -32,3 +32,4 @@ My leetcode practice
 * 0119-Pascals_Triangle_II.py
 * 0136-Single_Number.py
 * 0172-Factorial_Trailing_Zeros.py
+* 0203-Remove_Linked_List_Elements.py
