@@ -11,6 +11,7 @@ class Solution:
         if not root:
             return []
         ans = []
+
         def func(node, arr, cur_sum):
             if not node.left and not node.right and node.val == cur_sum:
                 ans.append(arr + [node.val])

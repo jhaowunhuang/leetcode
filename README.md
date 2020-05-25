@@ -31,3 +31,4 @@ My leetcode practice
 * 0118-Pascals_Triangle.py
 * 0119-Pascals_Triangle_II.py
 * 0136-Single_Number.py
+* 0172-Factorial_Trailing_Zeros.py
